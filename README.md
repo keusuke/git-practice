@@ -1,4 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで更新
-no-fast-forwadで変更
+conflictブランチで変更
+
